@@ -1,7 +1,6 @@
 import requests
 import jsonpath
 
-
 # class Method:
 #     GET = 'get'
 #     POST = 'post'
