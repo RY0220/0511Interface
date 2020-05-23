@@ -3,7 +3,6 @@ from xlutils.copy import copy
 from client import *
 import time,re
 
-
 def run_case(case_id, worksheet, header_dict_for_search=None, body_dict_for_search=None):
     print('----------[{case_id}]用例开始执行----------'.format(case_id=case_id))
     RESULT = {}

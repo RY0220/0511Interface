@@ -4,6 +4,7 @@ import unittest
 from client import *
 import HTMLTestReportCN
 
+
 ts = time.strftime('%Y%m%d%H%M%S', time.localtime(time.time()))
 suite = unittest.TestSuite()
 

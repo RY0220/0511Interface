@@ -7,7 +7,6 @@ from client import *
 # http.check_status_code(200)
 # http.res_headers
 
-
 # post json
 #
 # http = Http(url='http://huice.huicewang.com:9000/event/weather/getWeather/',
